@@ -22,6 +22,8 @@ url: 'https://stat260.berkeley.edu'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 logo: 'resources/stat_bear.png'
 
+ga_tracking: G-D1HN3B8DNV
+
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.7.0
 color_scheme: light
