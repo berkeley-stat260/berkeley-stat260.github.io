@@ -14,9 +14,12 @@ UC Berkeley
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 
+
 ## Offerings
 
+
 1. [Fall 2024](https://sites.google.com/view/nikitazhivotovskiy/stat260)
+
 
 
 
